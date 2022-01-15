@@ -44,8 +44,8 @@
 <b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=4ZBKj3ioGjY"><strong>Explore the Video »</strong></a><br/>
 <br/>
 
-:white_check_mark: 1.Calculating Maximum Profit (Multiple Ladders Question)<a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a><br>
-:white_check_mark: 2.Longest Mountain <a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a><br>
+:white_check_mark:a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"> 1.Calculating Maximum Profit (Multiple Ladders Question)<</a><br>
+:white_check_mark:<a href="https://leetcode.com/problems/longest-mountain-in-array/">2.Longest Mountain </a><br>
 :white_check_mark: 3.IPL 2021 - Match Day 2 (similar to maximum in subarray)<a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a><br>
 :white_check_mark: 4.Brackets in Matrix Chain Multiplication <a href="https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/">Link</a><br>
 :white_check_mark: 5.Phone directory (Question similar to this based on Amazon Pay as a service)<a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/">Link</a><br>
