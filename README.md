@@ -70,7 +70,7 @@
 <br/>
 
 :white_check_mark:  1.Divide an array into two sets S1 and S2 such that the absolute difference between their sums is minimum and find the minimum difference <a href="https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/">Link</a><br>
--[ ]  2.Prerequisite Tasks (Similar to Question of Modern Park)<a href="https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/">Link</a><br>
+:white_check_mark:  2.Prerequisite Tasks (Similar to Question of Modern Park)<a href="https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/">Link</a><br>
 :white_check_mark:  3.Rotate by 90 degree<a href="https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/">Link</a>
 :white_check_mark:  4. Given a matrix of size r*c. Traverse the matrix in spiral form. <a href="https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/">Link</a><br>
 :white_check_mark: 5. Stock span problem<a href="https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1">Link</a><br>
