@@ -81,6 +81,6 @@
 :white_check_mark: 10.Stickler Thief (Similar to Alibaba and Thiefes Question) <a href="https://practice.geeksforgeeks.org/problems/stickler-theif-1587115621/1/">Link</a><br>
 :white_check_mark:  11.Generate and print all binary numbers with decimal values from 1 to N.  <a href="https://practice.geeksforgeeks.org/problems/generate-binary-numbers-1587115620/1/">Link</a><br>
 :white_check_mark: 12.Find all the unique quadruple from the given array that sums up to the given number.<a href="https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1">Link</a><br>
-- [ ] 13.Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.<a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Link</a><br>
+:white_check_mark: 13.Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.<a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Link</a><br>
 :white_check_mark: 14.Given a destination D , find the minimum number of steps required to reach that destination.<a href="https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/">Link</a><br>
 :white_check_mark:<a href="https://practice.geeksforgeeks.org/problems/alien-dictionary/1/">15.Find the order of characters in the alien language</a><br>
