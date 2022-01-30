@@ -84,7 +84,8 @@
 :white_check_mark: 13.Given a Graph of V vertices and E edges and another edge(c - d), the task is to find if the given edge is a Bridge. i.e., removing the edge disconnects the graph.<a href="https://practice.geeksforgeeks.org/problems/bridge-edge-in-graph/1">Link</a><br>
 :white_check_mark: 14.Given a destination D , find the minimum number of steps required to reach that destination.<a href="https://practice.geeksforgeeks.org/problems/minimum-number-of-steps-to-reach-a-given-number5234/1/">Link</a><br>
 :white_check_mark:<a href="https://practice.geeksforgeeks.org/problems/alien-dictionary/1/">15.Find the order of characters in the alien language</a><br>
-   
+<hr/>
+<b><h2 align="center">Arsh Adobe Sheet :</h2></b>
    
  #### Day 15-20 :
 #### Company Name : Adobe
@@ -107,3 +108,27 @@
 :white_check_mark: 13.Minimum operations to convert array A to B <a href="https://practice.geeksforgeeks.org/problems/minimum-insertions-to-make-two-arrays-equal/1/">Link</a><br/>
 :white_check_mark: 14.Smallest range in K lists <a href="https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1/">Link</a><br/>
 :white_check_mark: 15.Given two library versions of an executable: for example, “10.1.1.3” and “10.1.1.9” or “10” and “10.1”. Find out which one is more recent? Strings can be empty also.<a href="https://www.geeksforgeeks.org/adobe-interview-experience-for-mts-1-1-5-years-experienced/">Link</a><br/>
+   
+<b><h2 align="center">Arsh Intuit Sheet :</h2></b>
+   
+#### Day 21-25 :
+#### Company Name : Intuit
+   
+<b>Offical Doc:- </b><a href="https://docs.google.com/document/d/18oi6OlvcL3wYn20Jb9crW7NO4cGkL6vUfTvplNDGkTw/edit"><strong>Explore the docs »</strong></a><br/>
+<b>Offical Video:- </b> <a href="https://www.youtube.com/watch?v=8kss7doOQmw"><strong>Explore the Video »</strong></a><br/>
+<br/>
+:white_check_mark: 1.Minimum Subset Sum.<a href="https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/">Link</a><br/>
+:white_check_mark: 2.Word Search <a href="https://practice.geeksforgeeks.org/problems/word-search/1/">Link</a><br/>
+:white_check_mark: 3.Missing number in a String <a href="https://practice.geeksforgeeks.org/problems/find-the-missing-no-in-string/1/">Link</a><br/>
+:white_check_mark: 4.Largest Number in K swaps<a href="https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps-1587115620/1">Link</a><br/>
+:white_check_mark: 5.Split Array Largest Sum<a href="https://leetcode.com/problems/split-array-largest-sum/">Link</a><br/>
+:white_check_mark: 6.Find in Mountain Array<a href="https://leetcode.com/problems/find-in-mountain-array">Link</a><br/>
+:white_check_mark: 7.Capacity to ship packages wihthin d days<a href="https://leetcode.com/problems/capacity-to-ship-packages-within-d-days">Link</a><br/>
+:white_check_mark: 8.Number Of Boomerangs <a href="https://leetcode.com/problems/number-of-boomerangs/">Link</a><br/>
+:white_check_mark: 9. Pacific Atlantic water Flow.<a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">Link</a><br/>
+:white_check_mark: 10.Number Of Provinces<a href="https://leetcode.com/problems/number-of-provinces/">Link</a><br/>
+:white_check_mark: 11.Construct Quad Tree <a href="https://leetcode.com/problems/construct-quad-tree/">Link</a><br/>
+:white_check_mark: 12.Course Schedule II<a href="https://leetcode.com/problems/course-schedule-ii/">Link</a><br/>
+:white_check_mark: 13.Minimum Swaps to Arrange a binary-grid <a href="https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid">Link</a><br/>
+:white_check_mark: 14.As far from land as Possible<a href="https://leetcode.com/problems/as-far-from-land-as-possible/">Link</a><br/>
+:white_check_mark: 15.Koko Eating bananas.<a href="https://leetcode.com/problems/koko-eating-bananas/">Link</a><br/>
